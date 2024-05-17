@@ -8,6 +8,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=migueldelgg&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=migueldelgg&label=Profile%20Views&color=7&icon=3&pretty=false)](https://visitcount.itsvg.in)
