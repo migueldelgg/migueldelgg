@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Miguel!<br>
-👨🏻‍💻 Aqui é onde desenvolvo meus projetos pessoais e de estudo, buscando minha primeira oportunidade como Desenvolvedor de Software.<br/><br>👩🏻‍🎓 Estudante de Ánalise e Desenvolvimento de Sistemas 2/5 <br/><br>💭 Atualmente estudando Spring Framework e seus diversos tipos de aplicação. <br/>
+👨🏻‍💻 Aqui é onde desenvolvo meus projetos pessoais e de estudo, buscando minha primeira oportunidade como Desenvolvedor de Software.<br/><br>👩🏻‍🎓 Estudante de Ánalise e Desenvolvimento de Sistemas 3/5 <br/><br>💭 Atualmente estudando Spring Framework e seus diversos tipos de aplicação. <br/>
 # 💻 Tech Stack:
 ![Java](https://skillicons.dev/icons?i=java,python,c,spring,mysql,postgresql,maven,hibernate)
 <!--GithubStats -->
