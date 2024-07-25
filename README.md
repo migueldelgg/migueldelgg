@@ -1,8 +1,8 @@
 
 # 👋 Hi, I'm Miguel!<br>
-👨🏻‍💻 Aqui é onde desenvolvo meus projetos pessoais e de estudo, buscando minha primeira oportunidade como Desenvolvedor de Software.<br/><br>👩🏻‍🎓 Estudante de Ánalise e Desenvolvimento de Sistemas 3/5 <br/><br>💭 Atualmente estudando Spring Framework e seus diversos tipos de aplicação. <br/>
+👨🏻‍💻 Aqui é onde desenvolvo meus projetos pessoais e de estudo, buscando minha primeira oportunidade como Desenvolvedor de Software.<br/><br>👩🏻‍🎓 Estudante de Ánalise e Desenvolvimento de Sistemas 3/5 <br/><br>💭 Atualmente estudando Spring Framework e Vue.js <br/>
 # 💻 Tech Stack:
-![Java](https://skillicons.dev/icons?i=java,python,c,spring,mysql,postgresql,maven,hibernate)
+![Java](https://skillicons.dev/icons?i=java,python,c,spring,mysql,postgresql,maven,hibernate,vue)
 <!--GithubStats -->
 ![](https://github-readme-stats.vercel.app/api?username=migueldelgg&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
