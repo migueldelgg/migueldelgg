@@ -4,7 +4,7 @@
 # 💻 Tech Stack:
 ![Java](https://skillicons.dev/icons?i=java,python,c,spring,mysql,postgresql,maven,hibernate,vue)
 <!--GithubStats -->
-![](https://github-readme-stats.vercel.app/api?username=migueldelgg&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=migueldelgg&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=490)](https://git.io/streak-stats)<br/>
 
 
 ---
