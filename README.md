@@ -1,4 +1,8 @@
 
+![linkedin-banner](https://github.com/user-attachments/assets/49c5fd38-5d17-4e9c-8e24-1ffcf8d9344e)
+
+<div align="center">
+  
 # 👋 Hi, I'm Miguel!<br>
 👨🏻‍💻 Aqui é onde desenvolvo meus projetos pessoais e de estudo, buscando minha primeira oportunidade como Desenvolvedor de Software.<br/><br>👩🏻‍🎓 Estudante de Ánalise e Desenvolvimento de Sistemas 3/5 <br/><br>💭 Atualmente estudando Spring Framework e React. <br/>
 # 💻 Tech Stack:
