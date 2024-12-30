@@ -1,14 +1,4 @@
-
-![linkedin-banner](https://github.com/user-attachments/assets/49c5fd38-5d17-4e9c-8e24-1ffcf8d9344e)
-
-<div align="center">
-  
-# 👋 Hi, I'm Miguel!<br>
-👨🏻‍💻 Aqui é onde desenvolvo meus projetos pessoais e de estudo, buscando minha primeira oportunidade como Desenvolvedor de Software.<br/><br>👩🏻‍🎓 Estudante de Ánalise e Desenvolvimento de Sistemas 3/5 <br/><br>💭 Atualmente estudando Spring Framework e React. <br/>
-# 💻 Tech Stack:
-![Java](https://skillicons.dev/icons?i=java,python,c,spring,mysql,postgresql,maven,hibernate,vue)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=Hi+there+%F0%9F%91%8B" alt="Typing SVG" /></a>
 <!--GithubStats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=migueldelgg&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=490)](https://git.io/streak-stats)<br/>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=migueldelgg&theme=dark&hide_border=false)](https://git.io/streak-stats)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![](https://visitcount.itsvg.in/api?id=migueldelgg&label=Profile%20Views&color=7&icon=3&pretty=false)](https://visitcount.itsvg.in)
