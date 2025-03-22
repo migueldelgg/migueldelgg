@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=Hi+there+%F0%9F%91%8B" alt="Typing SVG" /></a>
+![Banner Github Luz Cinza- Miguel](https://github.com/user-attachments/assets/6b53a29e-e07d-4ba3-a195-6090af60f200)
 <!--GithubStats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=migueldelgg&theme=dark&hide_border=false)](https://git.io/streak-stats)<br/>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=migueldelgg&theme=shadow-red&short_numbers=true&mode=weekly&card_width=502" alt="GitHub Streak" /></a>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
